@@ -1,0 +1,7 @@
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\bin\Debug\LW6.exe.config
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\bin\Debug\LW6.exe
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\bin\Debug\LW6.pdb
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\obj\Debug\LW6.csprojResolveAssemblyReference.cache
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\obj\Debug\LW6.csproj.CoreCompileInputs.cache
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\obj\Debug\LW6.exe
+E:\Учёба\3 сем\ООП\Лабы\LW6\LW6\obj\Debug\LW6.pdb
